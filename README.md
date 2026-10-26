@@ -12,9 +12,8 @@ a system, animal or AI, has experiences?
   tendencies in LLMs with [Inspect](https://inspect.aisi.org.uk/), built on ARENA's evals chapter.
 
 ### Research
-- *Triangulating Phenomenal Consciousness: An Eliminative-Iterative Method for Escaping
-  Anthropocentric Indicators* (with Dr. Schutter), in preparation. Audits Butlin et al.'s (2023)
-  consciousness indicators, using rats as an anchor case.
+* **Compliant but Not Candid: How Reasoning Changes LLM Seller Collusion Under Oversight** (with Konstantinos Mereos, equal contribution; Apart Research sprint, 2026). Tests how colluding LLM seller agents respond to announced, partial and bluffed monitoring, and compares monitors that read their messages, notes and hidden reasoning. [Code & logs](https://github.com/mereosk/llm-agent-collusion)
+* **Triangulating Consciousness: A Structured Approach for Systems That Cannot Report** (with Dr. Schutter), in preparation. Proposes triangulation as an alternative to indicator-based assessment of consciousness: behavioral and implementational criteria for one form of experience (felt affect), fixed in advance, calibrated on rats and LLMs, then applied to congenitally decorticate children, where it reaches a different verdict than Butlin et al.'s (2023) indicators.
 
 ### Elsewhere
 [Google Scholar]([LINK](https://scholar.google.com/citations?user=me2N35IAAAAJ&hl=en)) · [LinkedIn]([LINK](https://www.linkedin.com/in/ali-kodratallah-ostowar-487142251/)) · aliostowar2@seznam.cz
