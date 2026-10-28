@@ -16,4 +16,4 @@ a system, animal or AI, has experiences?
 * **Triangulating Consciousness: A Structured Approach for Systems That Cannot Report** (with Dr. Schutter), in preparation. Proposes triangulation as an alternative to indicator-based assessment of consciousness: behavioral and implementational criteria for one form of experience (felt affect), fixed in advance, calibrated on rats and LLMs, then applied to congenitally decorticate children, where it reaches a different verdict than Butlin et al.'s (2023) indicators.
 
 ### Elsewhere
-[Google Scholar]([LINK](https://scholar.google.com/citations?user=me2N35IAAAAJ&hl=en)) · [LinkedIn]([LINK](https://www.linkedin.com/in/ali-kodratallah-ostowar-487142251/)) · aliostowar2@seznam.cz
+[Google Scholar](https://scholar.google.com/citations?user=me2N35IAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/ali-kodratallah-ostowar-487142251/) · aliostowar2@seznam.cz
